@@ -1,0 +1,191 @@
+2016.10.06.22.49.27 | Logged in as: Sorazae
+2016.10.06.22.49.29 | Potential command request: "<>hail"
+2016.10.06.22.49.30 | Executed hail command with args []
+2016.10.06.22.49.32 | Potential command request: "<>help"
+2016.10.06.22.49.32 | Executed help command with args []
+2016.10.06.22.49.35 | Potential command request: "<>show_sigil"
+2016.10.06.22.49.35 | Executed show_sigil command with args []
+2016.10.06.22.49.38 | Potential command request: "<>lexify"
+2016.10.06.22.49.38 | Executed lexify command with args []
+2016.10.06.22.49.41 | Potential command request: "<>lexify text"
+2016.10.06.22.49.41 | Executed lexify command with args [text]
+2016.10.06.22.49.46 | Potential command request: "<>goodnight"
+2016.10.06.22.49.46 | Executed goodnight command with args []
+2016.10.06.22.56.11 | Logged in as: Sorazae
+2016.10.06.23.01.19 | Logged in as: Sorazae
+2016.10.06.23.05.23 | Channel: frostwardens_vigil - Write permissions?: true
+2016.10.06.23.05.23 | Channel: party_chat - Write permissions?: true
+2016.10.06.23.05.23 | Channel: lunadins_only - Write permissions?: false
+2016.10.06.23.05.23 | Logged in as: Sorazae
+2016.10.06.23.06.45 | Potential command request: "<>greet"
+2016.10.06.23.08.17 | Logged in as: Sorazae
+2016.10.06.23.08.24 | Potential command request: "<>hail"
+2016.10.06.23.08.25 | Executed hail command with args []
+2016.10.06.23.08.26 | Potential command request: "<>greet"
+2016.10.06.23.09.21 | Logged in as: Sorazae
+2016.10.06.23.09.24 | Potential command request: "<>greet"
+2016.10.06.23.09.24 | Executed greet command with args []
+2016.10.06.23.09.27 | Potential command request: "<>greet"
+2016.10.06.23.09.27 | Executed greet command with args []
+2016.10.06.23.09.29 | Potential command request: "<>hail"
+2016.10.06.23.09.31 | Potential command request: "<>goodnight"
+2016.10.06.23.09.31 | Executed goodnight command with args []
+2016.10.06.23.10.43 | Potential command request: "<>goodnight"
+2016.10.06.23.10.43 | Executed goodnight command with args []
+2016.10.06.23.11.41 | Logged in as: Sorazae
+2016.10.06.23.11.46 | Potential command request: "<>greet"
+2016.10.06.23.11.46 | Executed greet command with args []
+2016.10.06.23.11.49 | Potential command request: "<>goodnight"
+2016.10.06.23.11.49 | Executed goodnight command with args []
+2016.10.06.23.55.23 | Logged in as: Sorazae
+2016.10.06.23.55.27 | Potential command request: "<>greet"
+2016.10.06.23.55.27 | Executed greet command with args []
+2016.10.07.00.04.14 | Potential command request: "<>goodnight"
+2016.10.07.00.04.14 | Executed goodnight command with args []
+2016.10.07.00.04.20 | Potential command request: "<>whatdo"
+2016.10.07.00.07.04 | Logged in as: Sorazae
+2016.10.07.00.07.10 | Potential command request: "<>help"
+2016.10.07.00.07.10 | Executed help command with args []
+2016.10.07.00.07.44 | Logged in as: Sorazae
+2016.10.07.00.07.48 | Potential command request: "<>help"
+2016.10.07.00.07.48 | Executed help command with args []
+2016.10.07.00.07.54 | Potential command request: "<>greet"
+2016.10.07.00.07.54 | Executed greet command with args []
+2016.10.07.00.07.56 | Potential command request: "<>greet"
+2016.10.07.00.07.56 | Executed greet command with args []
+2016.10.07.00.08.50 | Logged in as: Sorazae
+2016.10.07.00.08.57 | Potential command request: "<>help"
+2016.10.07.00.08.57 | Executed help command with args []
+2016.10.07.00.09.00 | Potential command request: "<>greet"
+2016.10.07.00.09.00 | Executed greet command with args []
+2016.10.07.00.09.02 | Potential command request: "<>goodnight"
+2016.10.07.00.09.02 | Executed goodnight command with args []
+2016.10.07.00.09.06 | Potential command request: "<>show_sigil"
+2016.10.07.00.09.51 | Logged in as: Sorazae
+2016.10.07.00.09.54 | Potential command request: "<>help"
+2016.10.07.00.09.54 | Executed help command with args []
+2016.10.07.00.09.56 | Potential command request: "<>greet"
+2016.10.07.00.09.56 | Executed greet command with args []
+2016.10.07.00.09.58 | Potential command request: "<>goodnight"
+2016.10.07.00.09.58 | Executed goodnight command with args []
+2016.10.07.00.10.01 | Potential command request: "<>show_sigil"
+2016.10.07.00.10.01 | Executed show_sigil command with args []
+2016.10.07.00.10.07 | Potential command request: "<>lexify text"
+2016.10.07.00.10.07 | Executed lexify command with args [text]
+2016.10.07.00.10.12 | Potential command request: "<>lexify"
+2016.10.07.00.10.12 | Executed lexify command with args []
+2016.10.07.00.10.14 | Potential command request: "<>lexify pls"
+2016.10.07.00.10.15 | Executed lexify command with args [pls]
+2016.10.07.00.10.20 | Potential command request: "<>lexify this that"
+2016.10.07.00.10.20 | Executed lexify command with args [this, that]
+2016.10.07.00.10.27 | Potential command request: "<>help"
+2016.10.07.00.10.28 | Executed help command with args []
+2016.10.07.00.10.33 | Potential command request: "<>set blah blah"
+2016.10.07.00.11.17 | Logged in as: Sorazae
+2016.10.07.00.11.19 | Potential command request: "<>help"
+2016.10.07.00.11.20 | Executed help command with args []
+2016.10.07.00.11.21 | Potential command request: "<>greet"
+2016.10.07.00.11.21 | Executed greet command with args []
+2016.10.07.00.11.23 | Potential command request: "<>goodnight"
+2016.10.07.00.11.23 | Executed goodnight command with args []
+2016.10.07.00.11.26 | Potential command request: "<>show_sigil"
+2016.10.07.00.11.26 | Executed show_sigil command with args []
+2016.10.07.00.11.29 | Potential command request: "<>lexify test"
+2016.10.07.00.11.30 | Executed lexify command with args [test]
+2016.10.07.00.11.36 | Potential command request: "<>set a b"
+2016.10.07.00.11.36 | Executed set command with args [a, b]
+2016.10.08.02.01.23 | Logged in as: Sorazae
+2016.10.08.02.01.23 | Lexiconifier successfully initialized.
+2016.10.08.02.01.36 | Potential command request: "<>lexify test"
+2016.10.08.02.01.37 | Executed lexify command with args [test]
+2016.10.08.02.04.26 | Logged in as: Sorazae
+2016.10.08.02.04.26 | Lexiconifier successfully initialized.
+2016.10.08.02.04.31 | Potential command request: "<>lexify test"
+2016.10.08.02.04.32 | Executed lexify command with args [test]
+2016.10.08.02.05.00 | Logged in as: Sorazae
+2016.10.08.02.05.00 | Lexiconifier successfully initialized.
+2016.10.08.02.05.07 | Potential command request: "<>lexify test"
+2016.10.08.02.05.08 | Executed lexify command with args [test]
+2016.10.08.02.05.53 | Logged in as: Sorazae
+2016.10.08.02.05.53 | Lexiconifier successfully initialized.
+2016.10.08.02.05.58 | Potential command request: "<>lexify this is a test."
+2016.10.08.02.05.59 | Executed lexify command with args [this, is, a, test.]
+2016.10.08.02.06.26 | Potential command request: "<>lexify you are the best, sorazae!"
+2016.10.08.02.06.27 | Executed lexify command with args [you, are, the, best,, sorazae!]
+2016.10.08.02.08.09 | Potential command request: "<> lexify hey nice wow"
+2016.10.08.02.08.09 | Executed lexify command with args [hey, nice, wow]
+2016.10.08.02.09.19 | Logged in as: Sorazae
+2016.10.08.02.09.19 | Lexiconifier successfully initialized.
+2016.10.08.02.09.25 | Potential command request: "<>lexify set visible"
+2016.10.08.02.09.26 | Executed lexify command with args [set, visible]
+2016.10.08.02.10.49 | Logged in as: Sorazae
+2016.10.08.02.10.50 | Lexiconifier successfully initialized.
+2016.10.08.02.10.59 | Potential command request: "<>lexify this hurts"
+2016.10.08.02.11.00 | Executed lexify command with args [this, hurts]
+2016.10.08.02.18.03 | Logged in as: Sorazae
+2016.10.08.02.18.03 | Lexiconifier successfully initialized.
+2016.10.08.02.18.09 | Potential command request: "<>set allow_doubles 1"
+2016.10.08.02.18.09 | Executed set command with args [allow_doubles, 1]
+2016.10.08.02.18.53 | Logged in as: Sorazae
+2016.10.08.02.18.53 | Lexiconifier successfully initialized.
+2016.10.08.02.18.58 | Potential command request: "<>set allow_doubles 1"
+2016.10.08.02.22.38 | Logged in as: Sorazae
+2016.10.08.02.22.38 | Lexiconifier successfully initialized.
+2016.10.08.02.22.44 | Potential command request: "<>set dict expanded"
+2016.10.08.02.22.58 | Potential command request: "<>set dict basichl"
+2016.10.08.02.23.06 | Potential command request: "<>lexify this is a test."
+2016.10.08.02.23.07 | Executed lexify command with args [this, is, a, test.]
+2016.10.08.02.23.22 | Potential command request: "<>goodbye"
+2016.10.08.02.23.25 | Potential command request: "<>goodnight"
+2016.10.08.02.23.25 | Executed goodnight command with args []
+2016.10.08.02.51.35 | Logged in as: Sorazae
+2016.10.08.02.51.35 | Lexiconifier successfully initialized.
+2016.10.08.02.51.46 | Potential command request: "<>greet"
+2016.10.08.02.51.46 | Executed greet command with args []
+2016.10.08.02.51.50 | Potential command request: "<>help"
+2016.10.08.02.51.50 | Executed help command with args []
+2016.10.08.02.53.40 | Logged in as: Sorazae
+2016.10.08.02.53.40 | Lexiconifier successfully initialized.
+2016.10.08.02.53.44 | Potential command request: "<>greet"
+2016.10.08.02.53.44 | Executed greet command with args []
+2016.10.08.02.53.56 | Potential command request: "<>set allow_doubles 0"
+2016.10.08.02.53.56 | Executed set command with args [allow_doubles, 0]
+2016.10.08.02.54.15 | Potential command request: "<>set allow_doubles 0"
+2016.10.08.02.54.15 | Executed set command with args [allow_doubles, 0]
+2016.10.08.02.57.39 | Logged in as: Sorazae
+2016.10.08.02.57.39 | Lexiconifier successfully initialized.
+2016.10.08.02.57.50 | Potential command request: "<>set allow_doubles 0"
+2016.10.08.02.58.25 | Executed set command with args [allow_doubles, 0]
+2016.10.08.02.58.47 | Potential command request: "<>set rune_rgb_red 255"
+2016.10.08.02.59.06 | Logged in as: Sorazae
+2016.10.08.02.59.06 | Lexiconifier successfully initialized.
+2016.10.08.02.59.17 | Potential command request: "<>help"
+2016.10.08.02.59.17 | Executed help command with args []
+2016.10.08.02.59.41 | Potential command request: "<>lexify this is just a test!"
+2016.10.08.02.59.42 | Executed lexify command with args [this, is, just, a, test!]
+2016.10.08.03.00.00 | Potential command request: "<>set rune_rgb_red 144"
+2016.10.08.03.00.00 | Executed set command with args [rune_rgb_red, 144]
+2016.10.08.03.00.05 | Potential command request: "<>set rune_rgb_green 144"
+2016.10.08.03.00.05 | Executed set command with args [rune_rgb_green, 144]
+2016.10.08.03.00.09 | Potential command request: "<>set rune_rgb_blue 200"
+2016.10.08.03.00.09 | Executed set command with args [rune_rgb_blue, 200]
+2016.10.08.03.00.15 | Potential command request: "<>lexify now what?"
+2016.10.08.03.00.16 | Executed lexify command with args [now, what?]
+2016.10.08.03.00.28 | Potential command request: "<>set back_rgb_red 155"
+2016.10.08.03.00.29 | Executed set command with args [back_rgb_red, 155]
+2016.10.08.03.00.54 | Potential command request: "<>lexify ur the best sorazae! ?"
+2016.10.08.03.00.54 | Executed lexify command with args [ur, the, best, sorazae!, ?]
+2016.10.08.03.01.09 | Potential command request: "<>lexify how do you like dank maymays ?"
+2016.10.08.03.01.10 | Executed lexify command with args [how, do, you, like, dank, maymays, ?]
+2016.10.08.03.01.30 | Potential command request: "<>lexify ?"
+2016.10.08.03.01.31 | Executed lexify command with args [?]
+2016.10.08.03.02.50 | Potential command request: "<>set back_rgb_red 15"
+2016.10.08.03.02.51 | Executed set command with args [back_rgb_red, 15]
+2016.10.08.03.02.54 | Potential command request: "<>lexify test"
+2016.10.08.03.02.55 | Executed lexify command with args [test]
+2016.10.08.03.03.11 | Potential command request: "<>set back_rgb_green 50"
+2016.10.08.03.03.11 | Executed set command with args [back_rgb_green, 50]
+2016.10.08.03.03.14 | Potential command request: "<>lexify test"
+2016.10.08.03.03.15 | Executed lexify command with args [test]
+2016.10.08.03.03.39 | Potential command request: "<>lexify how do you like dank maymays ?"
+2016.10.08.03.03.40 | Executed lexify command with args [how, do, you, like, dank, maymays, ?]

@@ -1,0 +1,16 @@
+50b
+50b
+50b
+50b
+5b 17r 6b 17r 5b
+4b 19r 4b 19r 4b
+3b 21r 2b 21r 3b
+2b 4r 15b 8r 15b 4r 2b
+2b 4r 15b 8r 15b 4r 2b
+2b 4r 15b 8r 15b 4r 2b
+3b 21r 2b 21r 3b
+4b 19r 4b 19r 4b
+5b 17r 6b 17r 5b
+50b
+50b
+50b

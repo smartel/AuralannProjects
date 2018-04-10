@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Auracord"/>
+	<classpathentry kind="lib" path="JDA-withDependencies-2.2.1_353.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="/Text2Auralann"/>
+	<classpathentry kind="lib" path="C:/Users/Porvelm/Desktop/Auralann/Text2Auralann/Discord Bot/jda-player-0.2.3_26.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

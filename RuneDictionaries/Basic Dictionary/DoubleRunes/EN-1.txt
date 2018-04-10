@@ -1,0 +1,50 @@
+50b
+50b
+50b
+3b 7r 33b 4r 3b
+2b 10r 29b 7r 2b
+2b 12r 25b 9r 2b
+2b 3r 5b 6r 21b 6r 2b 3r 2b
+2b 3r 6b 7r 17b 7r 3b 3r 2b
+2b 3r 8b 7r 13b 7r 5b 3r 2b
+2b 3r 3b 1r 6b 7r 9b 7r 7b 3r 2b
+2b 3r 3b 3r 6b 7r 5b 7r 9b 3r 2b
+2b 3r 3b 5r 6b 15r 6b 2r 3b 3r 2b
+2b 3r 3b 7r 6b 11r 6b 4r 3b 3r 2b
+2b 3r 3b 9r 6b 7r 6b 6r 3b 3r 2b
+2b 3r 3b 3r 2b 6r 6b 3r 6b 8r 3b 3r 2b
+2b 3r 3b 3r 4b 6r 11b 6r 1b 3r 3b 3r 2b
+2b 3r 3b 3r 6b 6r 7b 6r 3b 3r 3b 3r 2b
+2b 3r 3b 3r 8b 6r 3b 6r 5b 3r 3b 3r 2b
+2b 3r 3b 3r 10b 11r 7b 3r 3b 3r 2b
+2b 3r 3b 3r 12b 7r 9b 3r 3b 3r 2b
+2b 3r 3b 3r 14b 3r 11b 3r 3b 3r 2b
+2b 3r 3b 3r 28b 3r 3b 3r 2b
+2b 3r 3b 3r 28b 3r 3b 3r 2b
+2b 3r 3b 3r 28b 3r 3b 3r 2b
+2b 3r 3b 3r 28b 3r 3b 3r 2b
+2b 3r 3b 3r 28b 3r 3b 3r 2b
+2b 3r 3b 3r 28b 3r 3b 3r 2b
+2b 3r 3b 3r 28b 3r 3b 3r 2b
+2b 3r 3b 3r 28b 3r 3b 3r 2b
+2b 3r 3b 3r 28b 3r 3b 3r 2b
+2b 3r 3b 3r 28b 3r 3b 3r 2b
+2b 3r 3b 3r 28b 4r 1b 4r 2b
+2b 3r 3b 3r 28b 9r 2b
+2b 3r 3b 3r 29b 7r 3b
+2b 3r 3b 3r 30b 5r 4b
+2b 3r 3b 3r 39b
+2b 3r 3b 3r 39b
+2b 3r 3b 3r 39b
+2b 3r 3b 3r 39b
+2b 3r 3b 3r 39b
+2b 3r 3b 3r 39b
+2b 3r 3b 3r 39b
+2b 3r 3b 3r 39b
+2b 3r 3b 3r 39b
+2b 3r 3b 3r 39b
+2b 9r 39b
+3b 7r 40b
+4b 5r 41b
+50b
+50b

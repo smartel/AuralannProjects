@@ -1,0 +1,50 @@
+50b
+50b
+50b
+27b 6r 17b
+26b 8r 16b
+25b 10r 15b
+24b 12r 14b
+24b 13r 13b
+24b 5r 3b 6r 12b
+24b 4r 5b 6r 11b
+24b 4r 6b 6r 10b
+24b 4r 7b 6r 9b
+24b 4r 8b 5r 9b
+24b 4r 8b 5r 9b
+24b 4r 7b 6r 9b
+24b 4r 6b 7r 9b
+24b 4r 5b 7r 10b
+24b 4r 4b 7r 11b
+24b 4r 3b 7r 12b
+24b 4r 2b 7r 13b
+24b 4r 1b 7r 14b
+24b 11r 15b
+24b 10r 16b
+24b 9r 17b
+24b 8r 18b
+24b 7r 19b
+23b 7r 20b
+22b 7r 21b
+21b 7r 22b
+20b 8r 22b
+19b 9r 22b
+18b 10r 22b
+17b 11r 22b
+16b 7r 1b 4r 22b
+15b 7r 2b 4r 22b
+14b 7r 3b 4r 22b
+13b 7r 4b 4r 22b
+12b 7r 5b 4r 22b
+11b 7r 6b 4r 22b
+11b 6r 7b 4r 22b
+11b 5r 8b 4r 22b
+11b 4r 9b 4r 22b
+11b 4r 8b 5r 22b
+11b 5r 6b 6r 22b
+11b 17r 22b
+12b 15r 23b
+13b 13r 24b
+14b 11r 25b
+50b
+50b

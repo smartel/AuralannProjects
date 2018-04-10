@@ -1,0 +1,50 @@
+50b
+50b
+23b 4r 23b
+22b 6r 22b
+21b 8r 21b
+20b 4r 2b 4r 20b
+20b 3r 4b 3r 20b
+20b 3r 4b 3r 20b
+20b 3r 4b 3r 20b
+20b 3r 4b 3r 20b
+20b 3r 4b 3r 20b
+20b 3r 4b 3r 20b
+20b 3r 4b 3r 20b
+20b 3r 4b 3r 20b
+20b 3r 4b 3r 20b
+20b 3r 4b 3r 20b
+20b 3r 4b 3r 20b
+20b 3r 4b 3r 20b
+20b 3r 4b 3r 20b
+20b 3r 4b 3r 20b
+20b 3r 4b 3r 20b
+20b 3r 4b 3r 20b
+20b 3r 4b 3r 20b
+20b 3r 4b 3r 20b
+20b 3r 4b 3r 20b
+20b 3r 4b 3r 20b
+20b 3r 4b 3r 20b
+20b 3r 4b 3r 20b
+20b 3r 4b 3r 20b
+20b 3r 4b 3r 20b
+20b 3r 4b 3r 20b
+20b 3r 4b 3r 20b
+20b 3r 4b 3r 20b
+20b 3r 4b 3r 20b
+20b 3r 4b 3r 20b
+20b 3r 4b 3r 20b
+20b 3r 4b 3r 20b
+20b 3r 4b 3r 20b
+20b 3r 4b 3r 20b
+20b 3r 4b 3r 20b
+20b 3r 4b 3r 20b
+20b 3r 4b 3r 20b
+20b 3r 4b 3r 20b
+20b 3r 4b 3r 20b
+20b 4r 2b 4r 20b
+21b 8r 21b
+22b 6r 22b
+23b 4r 23b
+50b
+50b

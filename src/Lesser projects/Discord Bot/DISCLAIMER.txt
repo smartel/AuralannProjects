@@ -1,0 +1,2 @@
+I don't own half the things in this folder, like the "Sorazae" image (that I found on google images, of Tarecgosa, I don't even know the original artist), the Discord screenshots, or the JDA jar file.
+This is a bot I created after finding a tutorial on youtube, with the intention of eventually having a bot that can lexify text to Auralann.
